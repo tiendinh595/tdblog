@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 /**
  * @name: TDBlog
@@ -70,3 +71,6 @@ include __SYSTEMS_PATH . '/core/TD_Router.php';
  * include file TD_EndProccess
  */
 include __SYSTEMS_PATH.'/core/TD_EndProccess.php';
+=======
+tesst code
+>>>>>>> 5adb0f77ed384f53158a5d2425df2d0eb7d4bf32
